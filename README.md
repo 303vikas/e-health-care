@@ -3,3 +3,5 @@ The Mission of eHealth-Care is to help patients, physicians, and community hospi
 
 My website provides you with a secure and easy method to access your medical records and communicate with your healthcare team. No matter where you are or what time of day it is, as long as you have internet access you can use my website
 to view test results, schedule an appointment, or message your doctor, and much more
+
+this website uses html,css,js,php and mysql which enhance the working and UI of this website.
